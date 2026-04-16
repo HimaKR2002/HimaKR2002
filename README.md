@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/himanshu-kumar-116a80284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash kumar ranjan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100025799862192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100068332577387&mibextid=jrokgi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hk_kushwaha_85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sky_the_devloper?igsh=mwd0dgfvamfvaxbwcq==" height="30" width="40" /></a>
+
 
 </p>
 
